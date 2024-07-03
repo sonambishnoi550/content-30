@@ -79,17 +79,19 @@
 }
 
 .card {
-    width: 270px;
-    height: 160px;
+    width: 100%;
+    padding: 24px 78px;
+    height: 100%;
     top: 280px;
     left: 115px;
     border-radius: 10px;
     background: #EBEAED;
+   
 
 }
 
-.padding-bottom {
-    padding-bottom: 30px;
+.margin-bottom {
+    margin-bottom: 30px;
 }
 
 .img-max {
